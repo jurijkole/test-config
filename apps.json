@@ -1,0 +1,22 @@
+{
+    "sparkdex": {
+        "type": "dex",
+        "pairs": ["fxrp/usdt0", "fxrp/stxrp"]
+    },
+    "enosys": {
+        "type": "dex",
+        "pairs": ["fxrp/usdt0", "fxrp/stxrp"]
+    },
+    "blazeswap": {
+        "type": "dex",
+        "pairs": ["fxrp/usdt0", "fxrp/stxrp"]
+    },
+    "firelight": {
+        "type": "borrow/lend",
+        "pairs": ["fxrp"]
+    },
+    "kinetic": {
+        "type": "borrow/lend",
+        "pairs": ["fxrp"]
+    }
+}
