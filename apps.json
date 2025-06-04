@@ -12,8 +12,8 @@
         "pairs": ["fxrp/usdt0", "fxrp/stxrp"]
     },
     "firelight": {
-        "type": "borrow/lend",
-        "pairs": ["fxrp"]
+        "type": "staking",
+        "pairs": ["stxrp"]
     },
     "kinetic": {
         "type": "borrow/lend",
