@@ -1,22 +1,32 @@
 {
     "sparkdex": {
         "type": "dex",
-        "pairs": ["fxrp/usdt0", "fxrp/stxrp"]
+        "pairs": ["fxrp/usdt0", "fxrp/stxrp"],
+        "coin_type": "pairs"
     },
     "enosys": {
         "type": "dex",
-        "pairs": ["fxrp/usdt0", "fxrp/stxrp"]
+        "pairs": ["fxrp/usdt0", "fxrp/stxrp"],
+        "coin_type": "pairs"
     },
     "blazeswap": {
         "type": "dex",
-        "pairs": ["fxrp/usdt0", "fxrp/stxrp"]
+        "pairs": ["fxrp/usdt0", "fxrp/stxrp"],
+        "coin_type": "pairs"
     },
     "firelight": {
-        "type": "staking",
-        "pairs": ["stxrp"]
+        "type": "restaking",
+        "pairs": ["fxrp"],
+        "coin_type": "assets"
     },
     "kinetic": {
         "type": "borrow/lend",
-        "pairs": ["fxrp"]
+        "pairs": ["fxrp", "stxrp"],
+        "coin_type": "assets"
+    },
+    "stratex": {
+        "type": "vaults",
+        "pairs": ["fxrp", "usdt0"],
+        "coin_type": "assets"
     }
 }
