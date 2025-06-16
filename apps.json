@@ -15,7 +15,7 @@
         "type": "vaults",
         "pairs": ["fxrp", "usdt0"],
         "coin_type": "assets",
-        "url:": "www.google.com"
+        "url:": "https://www.stratex.finance"
     },
     "sparkdex": {
         "type": "dex",
