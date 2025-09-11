@@ -1,21 +1,9 @@
 {
-    "firelight": {
-        "type": "restaking",
-        "pairs": ["fxrp"],
-        "coin_type": "assets",
-        "url": "www.google.com"
-    },
     "kinetic": {
         "type": "borrow/lend",
         "pairs": ["fxrp", "stxrp"],
         "coin_type": "assets",
         "url": "https://app.kinetic.market"
-    },
-    "stratex": {
-        "type": "vaults",
-        "pairs": ["fxrp", "usdt0"],
-        "coin_type": "assets",
-        "url": "https://www.stratex.finance"
     },
     "sparkdex": {
         "type": "dex",
