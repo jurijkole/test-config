@@ -34,5 +34,11 @@
         "pairs": ["fxrp/usdt0", "fxrp/stxrp"],
         "coin_type": "pairs",
         "url": "https://app.blazeswap.xyz"
+    },
+    "MoreMarkets": {
+        "type": "vaults",
+        "pairs": ["fxrp"],
+        "coin_type": "assets",
+        "url": "https://app.moremarkets.xyz"
     }
 }
