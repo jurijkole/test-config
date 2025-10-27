@@ -5,6 +5,12 @@
         "coin_type": "assets",
         "url": "https://app.kinetic.market"
     },
+    "MoreMarkets": {
+        "type": "vaults",
+        "pairs": ["fxrp"],
+        "coin_type": "assets",
+        "url": "https://www.moremarkets.xyz"
+    },
     "sparkdex": {
         "type": "dex",
         "pairs": ["fxrp/usdt0"],
