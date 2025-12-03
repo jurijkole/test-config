@@ -3,7 +3,7 @@
         "type": "restaking",
         "pairs": ["fxrp"],
         "coin_type": "assets",
-        "url": "https://firelight.finance"
+        "url": "https://app.firelight.finance"
     },
     "kinetic": {
         "type": "borrow/lend",
