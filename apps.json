@@ -11,12 +11,6 @@
         "coin_type": "assets",
         "url": "https://app.kinetic.market"
     },
-    "upshift": {
-        "type": "vaults",
-        "pairs": ["fxrp"],
-        "coin_type": "assets",
-        "url": "https://app.upshift.finance/pools/14/0x373D7d201C8134D4a2f7b5c63560da217e3dEA28"
-    },
     "sparkdex": {
         "type": "dex",
         "pairs": ["fxrp/usdt0"],
