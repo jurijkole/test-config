@@ -1,27 +1,43 @@
 {
     "firelight": {
-        "type": "restaking",
+        "type": "vault",
         "pairs": ["fxrp"],
         "coin_type": "assets",
         "url": "https://app.firelight.finance",
         "yt_url": "https://www.youtube.com/watch?v=_51wWKYP0Gg",
         "description": "Stake FXRP"
     },
+    "upshift": {
+        "type": "vault",
+        "pairs": ["fxrp"],
+        "coin_type": "assets",
+        "url": "https://app.upshift.finance/pools/14/0x373D7d201C8134D4a2f7b5c63560da217e3dEA28",
+        "yt_url": "",
+        "description": "Deposit FXRP"
+    },
+    "mystic": {
+        "type": "vault",
+        "pairs": ["fxrp"],
+        "coin_type": "assets",
+        "url": "https://app.mysticfinance.xyz/",
+        "yt_url": "",
+        "description": "Deposit FXRP"
+    },
     "kinetic": {
-        "type": "borrow/lend",
+        "type": "borrow/lending",
         "pairs": ["fxrp"],
         "coin_type": "assets",
         "url": "https://app.kinetic.market",
         "yt_url": "https://www.youtube.com/watch?v=F-bA9BiGmUw",
         "description": "Lend FXRP"
     },
-    "upshift": {
-        "type": "vaults",
-        "pairs": ["fxrp"],
+    "hyperliquid": {
+        "type": "dex",
+        "pairs": ["fxrp/usdc", "fxrp/usdh"],
         "coin_type": "assets",
-        "url": "https://app.upshift.finance/pools/14/0x373D7d201C8134D4a2f7b5c63560da217e3dEA28",
-        "yt_url": "",
-        "description": "Deposit FXRP"
+        "url": "https://app.hyperliquid.xyz/trade/FXRP/USDC",
+        "yt_url": "https://www.youtube.com/watch?v=xgrY8mBjc0k",
+        "description": "Trade FXRP"
     },
     "sparkdex": {
         "type": "dex",
@@ -46,5 +62,37 @@
         "url": "https://app.blazeswap.xyz",
         "yt_url": "",
         "description": "Supply FXRP/USDT0"
+    },
+    "ignite": {
+        "type": "prediction",
+        "pairs": ["fxrp"],
+        "coin_type": "assets",
+        "url": "https://ignitemarket.xyz/category/xrp",
+        "yt_url": "",
+        "description": "Predict with FXRP"
+    },
+    "flamix": {
+        "type": "perps",
+        "pairs": ["fxrp"],
+        "coin_type": "assets",
+        "url": "https://app.flamix.trade/flare/pools?chainId=14&sa=flr&search=fxrp",
+        "yt_url": "https://www.youtube.com/watch?v=EM2cIK_6YyI",
+        "description": "Trade perps using FXRP"
+    },
+    "cyclo": {
+        "type": "leverage",
+        "pairs": ["fxrp"],
+        "coin_type": "assets",
+        "url": "https://cyclo.finance/lock",
+        "yt_url": "https://www.youtube.com/watch?v=aUadLTdv9JI",
+        "description": "Buy cysFXRP"
+    },
+    "spectra": {
+        "type": "yield-trading",
+        "pairs": ["stXRP"],
+        "coin_type": "assets",
+        "url": "https://app.spectra.finance/pools/flare:0xa65a736bcf1f4af7a8f353027218f2d54b3048eb",
+        "yt_url": "",
+        "description": "Supply stXRP"
     }
 }
