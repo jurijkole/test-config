@@ -7,6 +7,14 @@
         "yt_url": "https://www.youtube.com/watch?v=_51wWKYP0Gg",
         "description": "Stake FXRP"
     },
+    "monarq": {
+        "type": "vault",
+        "pairs": ["fxrp"],
+        "coin_type": "assets",
+        "url": "https://app.upshift.finance/pools/14/0x2439D4bb753A0f3777d4C9011AFacc475ba6B951",
+        "yt_url": "",
+        "description": "Stake FXRP"
+    },
     "upshift": {
         "type": "vault",
         "pairs": ["fxrp"],
